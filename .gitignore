@@ -1,3 +1,6 @@
+test_examples/
+tester.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
